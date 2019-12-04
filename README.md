@@ -18,7 +18,7 @@ this is a [hyperlink](https://github.com/Erika00/pilot-student)
 
 >--notebook
 
-1.firet one
+1.firet oneg'i't
 
 1.sencond one
 
