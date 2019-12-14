@@ -26,10 +26,9 @@ print('b.name, b.heel(), b.length()')
 ```
 w.name, w.heel(), w.length()
 b.name, b.heel(), b.length()
-
-
-
-
-
-
 ```
+
+
+
+
+
