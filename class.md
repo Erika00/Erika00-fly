@@ -5,30 +5,25 @@ class Shoes:
         self.name = name
     def Heel(self):
         return '...'
-    def length(self):
+    def Length(self):
         return'...'
-class white(Shoes):
+class A(Shoes):
     def Heel(self):
         return'low'
-    def length(self):
+    def Length(self):
         return'37'
-class black(Shoes):
-    def heel(self):
-        return'hight'
-    def length(self):
+class B(Shoes):
+    def Heel(self):
+        return'high'
+    def Length(self):
         return'36'
-w = white('slippers')
-b = black('boots')
-print('w.name, w.heel(), w.length()')
-print('b.name, b.heel(), b.length()')
-
-```
-```
-w.name, w.heel(), w.length()
-b.name, b.heel(), b.length()
+a = A ('slippers')   
+b = B ('boots')
+print(a.name, a.Length(), a.Heel())
+print(b.name, b.Length(), b.Heel())
 ```
 
-
-
-
-
+```
+slippers 37 low
+boots 36 high
+```
