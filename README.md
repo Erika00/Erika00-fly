@@ -25,7 +25,7 @@ this is a [hyperlink](https://github.com/Erika00/pilot-student)
 ---
 # `git pull`可以把 **github**  上文本拿过来看自己用
 * 首先在`github `fork 
-* 然后 dowmlow clone 出来一个地址
+* 然后 download clone 出来一个地址
 * 再然后git clone + 地址  /ls检查/再进去cd .\learn-git\   git log 检查历史记录下载
 
 
@@ -76,7 +76,7 @@ this is [超链接](ROBOT.md)
 # 代码
 * 等宽字体，灰字体 两个**顿点` `` `**
 
-`this is 两个反炖点`
+`this is 两个反顿点`
 
 # 代码段
 - ` 2个```分别首尾 `
