@@ -92,10 +92,17 @@ this is [超链接](ROBOT.md)
 * 把 md 文件传上去
 1. 在learn-markdown 命令行中
   ```
-  git init
-  （git commit -a -m "init commit"）
+   git init #在当前目录下建一个仓库，使文件版本被git 控制和管理到
+ 
+ 
+ （ git commit -a -m "init commit"#提交"新建的/或改动的当前文件的备注 " 免去手动 git add .加未被追踪的文件 ）
+ 
   git add .加未被追踪的文件
+ 
   git commit -a -m "init commit"
+ 
   命令行/复制 地址 （方法1 GitHub中新建仓库）
   命令行/复制 地址 （方法2 GitHub中新建仓库）
-   最后刷新 看GitHub动态
+ 
+  最后刷新 看GitHub动态
+ ```
